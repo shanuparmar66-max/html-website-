@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Button Page</title>
+</head>
+<body>
+
+<center>
+    <button onmouseover="window.status='Mouse Over Button'" 
+            onmouseout="window.status='Mouse Out Button'">
+        Click Me
+    </button>
+</center>
+
+</body>
+</html>
