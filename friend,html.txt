@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Friends List</title>
+</head>
+<body>
+
+<h2>My Friends</h2>
+
+<ul type="circle">
+    <li>krisha</li>
+    <li>khushi</li>
+    <li>Sneha</li>
+    <li>Pooja</li>
+</ul>
+
+</body>
+</html>
