@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frames</title>
+</head>
+
+<frameset rows="50%,50%">
+    <frame src="image.html">
+    <frame src="friends.html">
+</frameset>
+
+</html>
