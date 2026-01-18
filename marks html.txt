@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Semester Marks</title>
+</head>
+<body>
+    <h1>Marks obtained in Last semester</h1>
+    <table border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <th>Subject</th>
+            <th>Maximum Marks</th>
+            <th>Marks obtained</th>
+        </tr>
+        <tr>
+            <td>Physics</td>
+            <td>100</td>
+            <td>85</td>
+        </tr>
+        <tr>
+            <td>Mathematics</td>
+            <td>100</td>
+            <td>86</td>
+        </tr>
+        <tr>
+            <td>English</td>
+            <td>100</td>
+            <td>72</td>
+        </tr>
+    </table>
+</body>
+</html>
